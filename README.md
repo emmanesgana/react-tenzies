@@ -1,4 +1,10 @@
-# React + Vite
+#Demo
+[Demo Link](https://nuutri-tenzies.netlify.app/)
+
+##Screenshot
+![Screenshot of app](https://github.com/emmanesgana/scrimba-react-tenzies/blob/main/preview/preview.png)
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
