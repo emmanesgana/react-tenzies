@@ -1,8 +1,8 @@
-#Demo
+# Demo
 
 [Demo Link](https://nuutri-tenzies.netlify.app/)
 
-##Screenshot
+## Screenshot
 
 ![Screenshot of app](https://github.com/emmanesgana/scrimba-react-tenzies/blob/main/preview/preview.png)
 
